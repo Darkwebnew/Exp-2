@@ -1,4 +1,4 @@
-# EX.NO-2-LIBRARY-MANAGEMENT-SYSTEM
+# Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
 # AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
